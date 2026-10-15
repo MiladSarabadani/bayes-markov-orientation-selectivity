@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the accompanying manuscript."
+title: "Bayes-Markov Cortical Orientation Selectivity: Reproducible Simulations"
+type: software
+version: 1.0.0
+repository-code: "https://github.com/MiladSarabadani/bayes-markov-orientation-selectivity"
+authors:
+  - family-names: Moslemi
+    given-names: Abolfazl
+  - family-names: Sarabadani
+    given-names: Milad
+  - family-names: Sefidian
+    given-names: Fatemeh
+  - family-names: Peyvandi
+    given-names: Hossein
+keywords:
+  - Bayes-Markov model
+  - orientation selectivity
+  - primary visual cortex
+  - computational neuroscience
+  - leaky integrate-and-fire
+  - Hodgkin-Huxley
+  - reproducible research
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Bayes–Markov Model of Cortical Orientation Selectivity: Computational Re-implementation, Quantitative Evaluation, and Spiking Readouts"
+  authors:
+    - family-names: Moslemi
+      given-names: Abolfazl
+    - family-names: Sarabadani
+      given-names: Milad
+    - family-names: Sefidian
+      given-names: Fatemeh
+    - family-names: Peyvandi
+      given-names: Hossein
+  year: 2026

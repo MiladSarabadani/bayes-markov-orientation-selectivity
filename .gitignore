@@ -1,0 +1,22 @@
+# Operating-system and Python artifacts
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+.cache/
+*.pyc
+
+# Generated outputs
+/figures/
+/*.png
+
+# Local working files and exports
+/*.pdf
+/*.zip
+/*.html
+/*.py
+/*.r
+/*.ipynb
+!/bayes_markov_orientation_selectivity.ipynb
+/*.md
+!/README.md
