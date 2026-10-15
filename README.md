@@ -206,6 +206,8 @@ changes do not alter the underlying simulations or reported numerical results.
 
 If you use this software, please cite the repository and the accompanying manuscript.
 Machine-readable citation metadata are provided in [`CITATION.cff`](CITATION.cff).
+Version 1.0.0 is permanently archived on Zenodo at
+[https://doi.org/10.5281/zenodo.23389202](https://doi.org/10.5281/zenodo.23389202).
 
 ## Reference
 
